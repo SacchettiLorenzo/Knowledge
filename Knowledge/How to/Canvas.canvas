@@ -4,7 +4,17 @@
 		{"id":"eaf0136b5e6ee876","type":"text","text":"Testing a canvas annotation","x":-440,"y":-160,"width":250,"height":60},
 		{"id":"b860d1f4828396be","type":"text","text":"Another canvas Annotation","x":-444,"y":-445,"width":250,"height":60},
 		{"id":"ef1590c7155504ec","type":"text","text":"Annotation","x":-840,"y":-340,"width":250,"height":60},
-		{"id":"5f1d9519d1d1fd74","type":"text","text":"Annotation","x":-840,"y":-263,"width":250,"height":60}
+		{"id":"5f1d9519d1d1fd74","type":"text","text":"Annotation","x":-840,"y":-263,"width":250,"height":60},
+		{
+			"id":"564a0e51005a9fcb",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-920,
+			"y":-60,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{"id":"38361b35a3cd4280","toFloating":false,"fromNode":"eaf0136b5e6ee876","fromSide":"top","toNode":"b860d1f4828396be","toSide":"bottom","fromEnd":"arrow"}
