@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "f5ad8c3a88f3350a",
+    "type": "split",
+    "children": [
+      {
+        "id": "68a5f4745919b9c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62853d666744b27e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7bf9d6b406bfb6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7961a2f596a73231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f0a87210df048f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora file"
+            }
+          },
+          {
+            "id": "921e7eb88d4b2d17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "9779119e85c5d6a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba2be049b2e6dbe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ee041647f04a23e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6edd3b0e46f741f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "How to/Canvas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "c57d961d9900962e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How to/Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "911555c50e979a21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "10ab0d8fd838ede9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "b83c698cb2d1bdea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How to/Canvas.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          },
+          {
+            "id": "549caf9eedeb6d51",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selettore rapido": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9f0a87210df048f9",
+  "lastOpenFiles": [
+    "How to/Canvas.canvas",
+    "How to/Links.md",
+    "How to/Note1.md",
+    "Excalidraw/Drawing 2026-09-09 00.14.51.excalidraw.md",
+    "Excalidraw",
+    "Senza nome.canvas",
+    "Senza nome.md",
+    "Senza nome.base",
+    "Images",
+    "Note1.md",
+    "How to/Note 2.md",
+    "2026-09-08.md",
+    "Senza nome 1.md",
+    "prova.md",
+    "Test/Senza nome.canvas",
+    "How to",
+    "Benvenuto.md",
+    "crea un collegamento.md",
+    "Math"
+  ]
+}
