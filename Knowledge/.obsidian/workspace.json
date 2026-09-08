@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "68a5f4745919b9c4",
+        "id": "3481d2c8a413df18",
         "type": "tabs",
         "children": [
           {
-            "id": "62853d666744b27e",
+            "id": "11bc3e2fb51f6cd4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Knowledge/.obsidian/workspace.json",
-                "bFile": "Knowledge/.obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -201,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62853d666744b27e",
+  "active": "549caf9eedeb6d51",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-09-09 00.14.51.excalidraw.md",
     "How to/Canvas.canvas",
